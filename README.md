@@ -47,7 +47,8 @@ It relies on basic linux commands. If you do not have the permissions to view a 
 - [ ] Shows common hotkey hints on bottom of screen.
 - [ ] Shows current file buffer on bottom of screen.
 
-6. --help option
+6. --help option / help
+- [x] Make sure correct libraries are installed (error checking).
 - [ ] Will show documentation for the project.
 - [ ] Learn how to make a man entry.
 
